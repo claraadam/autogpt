@@ -1,5 +1,5 @@
 # autogpt
-# Restaurant Recommendation Chatbot
+# Product Recommendation Chatbot
 
 ## Overview
 
